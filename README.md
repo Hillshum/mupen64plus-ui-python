@@ -29,6 +29,8 @@ Dependencies
 
 * PyQt5
 * SDL-1.2 or SDL-2.0
+* PyQt5.QtOpenGL
+* PyQt5-dev-tools
 
 Install
 -------
